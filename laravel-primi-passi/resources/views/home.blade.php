@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>HELLO WORLD!</h1>
+    <a href="/about">About me</a>
 </body>
 </html>
